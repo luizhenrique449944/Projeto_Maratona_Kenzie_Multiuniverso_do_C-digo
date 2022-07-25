@@ -1,0 +1,16 @@
+/*
+CSS - Cascading StyleSheeet
+
+TAG - Elemento HTML
+CLASS - Estilo CSS
+ID = Identificador
+
+*/
+.cabecalho {
+   background-color: #db1717;
+}
+.cabecalho > section {
+   display: flex;
+   justify-content: center;
+}
+
